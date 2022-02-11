@@ -1,0 +1,41 @@
+<style>
+	.background{
+		background-color: #E6E6FA;
+		width: 100%;
+	}
+	.logo{
+		color: #1C2D9C;
+		font-size: 60px;
+		font-family: Poppins;
+	}
+	
+	#logo-background{
+		background-color: lightblue;
+		border-radius: 10px;
+		text-align: center;	
+	}
+	.input-border{
+		border-radius: 10px;
+		padding: 13px;
+		border-style: solid;
+	}
+	.input-border-background{
+		background-color: lightblue;
+ 		padding: 20px;
+		margin: 0% 35% 0% 35%;
+	}
+	#submit-button{
+		background-color: #43437F;
+		border-radius: 10px;
+		padding: 13px;
+		font-family: Bree Serif;
+		font-size: 15px;
+		width: 195px;
+		color: white;
+	}
+	footer{
+		font-family: Poppins; 
+		font-size: 13px;
+		text-align: right;
+	}	
+</style>
